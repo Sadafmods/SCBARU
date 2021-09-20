@@ -1,0 +1,346 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"SADAF MODS",
+      "image":"file:///android_asset/Sadafmods.png",
+      "link":"https://play.google.com/store/apps/developer?id=Sadafmods"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Ocelot Jacket ",
+      "skin_url":"https://lh3.googleusercontent.com/HF1wXFIPEG_N_TucbRe5KgLE1t0TXtXrAhRWzwBarg_5kAOPwCcAXp0Ty2J6kYXgxLC3aPHk9HIcFCtG7MiSA0g",
+      "view_skin":"https://lh3.googleusercontent.com/JAEiEbz4a1QeumrGErqHQfpmYspXBu2CYpjckYQOVnli8Uln3pKYlpdjXnakxRLK7Kusq3_2vPkzYnoJHrgbSA"
+    },
+    {
+      "id":2,
+      "nama_skin":"Goku Sab Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/5ZII4MThKaTHCnNECJ8o2EwA64nWR1xmFXkAwDBGIMySY-qsZ2TDA-6JBAJZEfbQKe8PJ8e_Kbl0YoT0g_0HzPw",
+      "view_skin":"https://lh3.googleusercontent.com/ymugT32KXXSaowxjriCM1VgqM5mjZM_2L46HQW75rBJ8HHqJonO_D9cS7alJMaRm8Xk2oFoFb9qKUsSTFjssnNY"
+    },
+    {
+      "id":3,
+      "nama_skin":"Boy red jacket",
+      "skin_url":"https://lh3.googleusercontent.com/uhJhHe8s9xi7VSl1VFbQh9Iv9lv2b4uS0spxPcmlYofNStsDs64UJHqROBPzNSfu5EZP2WhlUsTvObu3ZsW0BrlGUV_qaSxGrA",
+      "view_skin":"https://lh3.googleusercontent.com/43dGhP4fGz80nu03Dj7HXpVoudkJmp3QxMqLROF4y_QyoTfQ7NmNr9qC9fbMX9MrPZxWpoMdwDmrmH3a7o_qKDkokMM3xPelQZ4"
+    },
+    {
+      "id":4,
+      "nama_skin":"red jacket cool boy",
+      "skin_url":"https://lh3.googleusercontent.com/2k83hEjFHINv9BsTySqhRj_6wmJrSDGcz4jOMs39b-c7kNWLvpJZkgsyedzAVdm_LZ0fmx0o9G_YjiBMwm-8Tg",
+      "view_skin":"https://lh3.googleusercontent.com/fGaJl4j8UWhVMBtDv2YeVY1vaBNe2XTVQnyLRLCA5YDD8EO2nOMK_u1-6l0DYs5Qf8RWKN4oXkTJCIpCi0UYbw"
+    },
+    {
+      "id":5,
+      "nama_skin":"Blue Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/xKzMI9-L5lWqhwcJ7kAZ3kcRiqFPkcSaIU7ttyV-HqtQxU-rnBT_GYm7Be_QfubDoBVBFCkbqX5_DWoDbXav",
+      "view_skin":"https://lh3.googleusercontent.com/sfRbvPT2hllJ8ClyQxFWlogCLMmKuoeMzpBJbq2eaFK0pRbs4dX80YH0UoST9n41FQziUL8WA6J2NAeaS9gt8BY"
+    },
+    {
+      "id":6,
+      "nama_skin":"Black Jacket boy",
+      "skin_url":"https://lh3.googleusercontent.com/jg1LpA9YJghh7KT-xQCGk2bcsOPYY_FUTJiUUbov6Mw8eV8X9YS51sXcDsAtwIokesBKKqGGFhBZMVoMzML5JMk",
+      "view_skin":"https://lh3.googleusercontent.com/n_yh6mUZdY-YmrSLfCYljUYF7028WOHCv4xZIB9N0Z0-DqAGYkUbqyyN3wQf4ema7uEXHABdINZqlfpFTvVf"
+    },
+    {
+      "id":7,
+      "nama_skin":"Ocelot Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/681oRA-4Du5qTYyeaGxQKHZei4kIRhrRZxQCgEBqOoOaNFOrBRhCh6UxmR4ARVt2tAb6U4uBhmGzU2Hi7ElM",
+      "view_skin":"https://lh3.googleusercontent.com/sImfqsDLHcnTldCmNC9CZeIq39vAdZUTeJOzXu660HYpk9SX8bLYxwr-6eZqhp8cob13MJqo0V_v1OfwQ_yX"
+    },
+    {
+      "id":8,
+      "nama_skin":"Ocelot Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/wmx89a8I49twT7ibCrZHFh76D6A5vvypI4q7KtYKJU0A2P4QATrjGBT0k9ft28WN3yxpQHs5G3841pZxr-fn",
+      "view_skin":"https://lh3.googleusercontent.com/R06i11Zalp1H8HM1FDlt7HyN3s7V-JvsfGUKV0SpzVvSuYd4yEcjc6cL0Bt1qXNTZmqYdeZ4MJOI9cIAqCqJ"
+    },
+    {
+      "id":9,
+      "nama_skin":"Blue Jacket Preston",
+      "skin_url":"https://lh3.googleusercontent.com/dJ__EVQJuMp7ONMi1n0dijBiib7wnhi521aBw3hyRzGcIknnURVEwz1IXd1dEOs6b_pXWzbCTnj7B-ZT4lmwlA",
+      "view_skin":"https://lh3.googleusercontent.com/IwtDsODe1NCSEkSt4PFf3H-BYqjGY__0rpDVdZHtmDzoB1c90_YbIxNCakvP1kHsyy5u-S7YYsHIk1S3n_hgfg"
+    },
+    {
+      "id":10,
+      "nama_skin":"Sandal Goib",
+      "skin_url":"https://lh3.googleusercontent.com/F-BdXcFknPe7mtTJnloefKRCHdjV6AtvV1LmMnAD5PI0U3llkN5Pd7GqWPtBm9U2TSEdPRoQnN8eJUacgfB_",
+      "view_skin":"https://lh3.googleusercontent.com/kBFhgaAWq19IGpzNMpWbfxTHi1TrGhgsX_7CYRYs2yqXAB1AGDSODe1YtoyPRKzdhEXXvAjjy6z_QbmUcWfnVA"
+    },
+    {
+      "id":11,
+      "nama_skin":"Blue jacket boy",
+      "skin_url":"https://lh3.googleusercontent.com/g5c6LcXyxm3ST_iBMsZp5RHzK62vKtEGvxFJeyLzGVbo3-Qj9qINGxxoq3N3wm8Rd71uZAdWiMfcPrWRODHG1fUSC9kpHG1jfs1O",
+      "view_skin":"https://lh3.googleusercontent.com/NYg8V7zJkwP6DFcrJlg0G98qDIW45FGek4E-VqfD0gQ4M-wC7MOrhnEyp-gqk7w1mnvgu8M0cUI3qf3hSTvgOjGyQFtM0GBGYnc"
+    },
+    {
+      "id":12,
+      "nama_skin":"Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/Ieg9_7gzVqymBHe1_RIP_v8nilDgi4ttqrdMb54OKupf0AxFxa_6XI8fophjXSTSz1aC3e-jIOfWjROaY8gghn8lHP5Pfl-cBg",
+      "view_skin":"https://lh3.googleusercontent.com/OMs-NoxiR4XaOmEFCbrtCqz4l6p4B62VZASVX_DhJhfHKoeRHbhOO4cHd9Ia6K1JcW85vvxCtvnkeCAkqH3p1_ohM5eKPn8Jfw"
+    },
+    {
+      "id":13,
+      "nama_skin":"Ocelot",
+      "skin_url":"https://lh3.googleusercontent.com/qOKo2F_X7HqpXMReQENJkSnP90DA_AiqSAkddp7SizGrQL0ENG3mF1__OOJISnlCkoG9mlnb6OKjMfE8uL7ALnM",
+      "view_skin":"https://lh3.googleusercontent.com/9dOSjprknn_oUhafz19_T40dVQBpqT9mlNqHM0KdRnTKG96s1kgNVKadxuFL0gwSu6MXxZNWU6woTPv_ghU"
+    },
+    {
+      "id":14,
+      "nama_skin":"troll jacket",
+      "skin_url":"https://lh3.googleusercontent.com/qBdbZ-wV4fyUEOMvxdty13-dIUwcv2yf4M2dXMsieFZCRcHo_pkdT8fDf2z1mMMtBNMvLSOm0rcsbZpjmDpF",
+      "view_skin":"https://lh3.googleusercontent.com/z7u7xIFJ3BQpxF0E2xttpnDuWVEks2gZ51Xy-twNaSzs721ZWQMYPdDGwlAzzd3xl6LzXiSntlJ8niii0HD9Xg"
+    },
+    {
+      "id":15,
+      "nama_skin":"Jacket Emma",
+      "skin_url":"https://lh3.googleusercontent.com/ky8OYAeTmdmBZ0MMILvYFeWto5fnPJ70XBRX0EKgN3nUJ_AlYdpr3Vd5XO5kWpBOAsMgtwUT4UlvbqG0Kbdh2w",
+      "view_skin":"https://lh3.googleusercontent.com/l2gTAp5OLrwnOgFFyjTxkTtmCSatO-r2LlXO22BXn7SlNDloWEFr8SoBrCixVcDONMdpz8YN217UbTyw5rOq3g"
+    },
+    {
+      "id":16,
+      "nama_skin":"Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/CCekMRTDDG7lcIF8RvkDhZ_-pupCxdYE37SIav8YNxksLc9v1PjLFItNxFMSPcLbrOpArC1YJ-6xJMiWlehag8o",
+      "view_skin":"https://lh3.googleusercontent.com/1-upNX3kujeAtjDrGH3XQPtY5u4iFrp_kZ3tQ79BhKLGz3xaCmNdmmPRvdG53qAybDZwqk78yJ_26o_hWdfddo0"
+    },
+    {
+      "id":17,
+      "nama_skin":"Cyan jacket",
+      "skin_url":"https://lh3.googleusercontent.com/S8Bsg4S0KVkM5WQS9FYiordqQvO-0PNFw9zB6KUweFTU6V4YrEf8gMf463k1ph-YlLVlVJCN_1pgz0QcPS3yHg",
+      "view_skin":"https://lh3.googleusercontent.com/dQIhL8pGfAQ1IgrGqeHERFfKBkS4Wwwh4_6qVd7DcXvDgdTrJEtbqnu0Nx4UGq7vHjt5qxZTXtCKhH1gLhal_w"
+    },
+    {
+      "id":18,
+      "nama_skin":"red jacket boy",
+      "skin_url":"https://lh3.googleusercontent.com/9Fnz0wdAFpqT9WorU3kG6Z8kxenb-GdM6m6TRNb1mcQSns3Q4fIwjrZpVqnjYlv6OPICKb5cR6bVy76a6PXgYMn4Q5xZ4J62uZM",
+      "view_skin":"https://lh3.googleusercontent.com/UfmKnU-IilJyfIHAHW10zVhYAhEPvZh46FBGYuUkJSPHmddJaJSU8SU03Hn_HuX9EPLLBfOAYM7Xr2Nc6-PLy5NCfB76OsbdAkg"
+    },
+    {
+      "id":19,
+      "nama_skin":"Cute Aubrurn Hair Red Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/g2I3iWDhUJjyy__sAex3KR0IRU3FIcgctzEvzl2f8RSBJQwJkYWN85c_4cG-qpWTvs7Bqh8q7h5S2NrV9ANR",
+      "view_skin":"https://lh3.googleusercontent.com/f1SiA9O-5ZuXsQ4z-suDsSAb8kxqcsawOJKPqwqiBOfjnyZgEHMHVp0HMWWVgsR4sPwAqyKmMNAcp_vZS4Tejg"
+    },
+    {
+      "id":20,
+      "nama_skin":"without Jacket and Overall",
+      "skin_url":"https://lh3.googleusercontent.com/oGoeSz2VKKhl-OOAYKhy33dCE7DSiL3HLVa8nzSmqPtkiKglnnRQpcnwALjPKC6vZDmNHR3qY6A4i56RHD6bgEI",
+      "view_skin":"https://lh3.googleusercontent.com/xyyycjtGfeDBlfFjq5a3UP9hqKkDEQy1k4mu7QdioklPnkmM1OUbmPZs1HjpltO3ZrwDiU2WjzyqQ-X5laWpZA"
+    },
+    {
+      "id":21,
+      "nama_skin":" pink jacket and jeans",
+      "skin_url":"https://lh3.googleusercontent.com/145bq8naaOhMO_vXJgIiH5_58iWKc6kIUZEscADH-lRn39Qrj9bP6Z_cgSzkMYsHc4V1-pVIWaUJWjzP6JWH3Xo",
+      "view_skin":"https://lh3.googleusercontent.com/SbvY11c1R_sSl7QxT1pp5O8oy3F5218_WbjtIx0JTet_lVgQDFtdLuNAgJUZXjCXTAFtFREeQpDhLvv7AAw3vTI1n_pK40hujSRE"
+    },
+    {
+      "id":22,
+      "nama_skin":"Gray Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/_wzsX6D4CHLNHA2nXooh7QDHR9m0XiK1NjO_ktkK4NOgLnrgrIb5YIgugsF0gUEusEBE0nDxzBLwDtiPICaHLbycLYv38LlJC16A",
+      "view_skin":"https://lh3.googleusercontent.com/6GkG8LGAKFxVxycykaj7a2v51gESB3CFn8TowHEemdHn-rzlrLF-4s9VqaKshaFmEBxrKrwau5zvXTJvPYfmlm4LJCmYyRmTUg"
+    },
+    {
+      "id":23,
+      "nama_skin":"jacket",
+      "skin_url":"https://lh3.googleusercontent.com/Mg-8B-DYzY3Ywakctcf_BirK-SGK2ZlqcNUc1AegMrOIdnFHRr5SHIfBAj2S8UtDYEzxem8jc0nbDc5335W-1A",
+      "view_skin":"https://lh3.googleusercontent.com/X97QB_Dw3_NxgRsSwsL6RK7yHMdwtWne8DHhGombbiD8Nk3f9g7TPT0baDfU0_crQSTZ95Lg1XzCjIBYHSSyoAY"
+    },
+    {
+      "id":24,
+      "nama_skin":"green jacket",
+      "skin_url":"https://lh3.googleusercontent.com/h7YHAjbBi0EoSELblet95gbisPtGhYPuMDvJwOJGTp81nr7PEsU-yaZC5AxpTeI4eZs906mCAEmbXd3b2bOy",
+      "view_skin":"https://lh3.googleusercontent.com/SXVaHamWS8xZF7O6e3w79Y_xRKhpGI6zFpnAtf462m1qL57yT7EyOQQ3h0E2XQgKIehvJA5DVPG1B8Em8L_NdA"
+    },
+    {
+      "id":25,
+      "nama_skin":"red jacket",
+      "skin_url":"https://lh3.googleusercontent.com/yrVyaaR5lh0mfhKwfSz3v1HjrZVYofLLcyZaiO-VyvHAj2t2B1yC6XIuYljlahrsSEKbJM4a31zvKCG_FK4BHgELLKSZMPLwrg",
+      "view_skin":"https://lh3.googleusercontent.com/ldgO3Tv4GWp1Ed6GtKZPTwjphpQknVj7CYVaTzGPQiEMUayfWytuW6w1-otuNzLIJ63sQnxy1sa5JXo57Tt-mrKqTg69t1ePoG_G"
+    },
+    {
+      "id":26,
+      "nama_skin":"Wolf Jacket blue",
+      "skin_url":"https://lh3.googleusercontent.com/yDV_yP0wb3mxIL-PmReFAvzV7bKJGkIjiPm-LJApJ0poO-VxX_G9b5nKb-VgzUxWy1UGoRwa2gLNLCGMAksA1Q",
+      "view_skin":"https://lh3.googleusercontent.com/eo37u7cu_rLqAt6JGO8qhyNbrR14UanHL_XrAQeSdmbF3Xdma8W7FiWFpf5lfd7njFAxHXxyDawtYhNn1gryAQ"
+    },
+    {
+      "id":27,
+      "nama_skin":"Cute Werewolf",
+      "skin_url":"https://lh3.googleusercontent.com/w02ISdswuLPJYlo5Me6hb3xG4p4syeHBtB5CrGn5TSCs7qG2whX1pS6t0WHRGzoUaeWRmkQX6ruTss2IaqYW4Q",
+      "view_skin":"https://lh3.googleusercontent.com/fr5AZzPn6vlugq9V0kkeZDp1DLyaIOPOFHE_EigrTkQo--FrZN-zE7wy5Q1Q5sXkufq1maU4CbLGwW8txytM_A"
+    },
+    {
+      "id":28,
+      "nama_skin":"snow jacket",
+      "skin_url":"https://lh3.googleusercontent.com/M8M4HA8U8SNbS7Zf6skru0Opvq0EJfNlt87jiPIqbEz9SpGGWWjT8CNUVofzV62PofkNNm6bBfHYj7VKE-lmVExRRi5AVQcHazY",
+      "view_skin":"https://lh3.googleusercontent.com/LH2UQgVYHKFyTjy5iytwS7JnV2K20N_PWi2u3iMlWqbclzONTwAYJmzVZowE9Nc1-ZbgvHJIY4HPUGJj0j-_p0HHEeWv5yeDmw"
+    },
+    {
+      "id":29,
+      "nama_skin":"Orange Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/yyS09n3cphreeDcL2KqC8hPCTJHcgmioCUn5jBeFD1VKMqza5JTwLD-jzS8C-4zF7x09fYAkQTsT6qYB5tJ2UMlanUHXrXKLSA",
+      "view_skin":"https://lh3.googleusercontent.com/yOBoCk5qMN2-pmFym6Aj8mxWwOIITEY5K0H58J6sVk7PMTwLvk5YAygDue9jN_Y1W2LDKz6uXqfEfIyOVMhZYdBSDjy0njAo3w"
+    },
+    {
+      "id":30,
+      "nama_skin":"steve jacket",
+      "skin_url":"https://lh3.googleusercontent.com/b_OZvUlM7Km6BMQwscFdZiy2xTl0pLAAtnf6d-lbuZ4jOHxvbJVAyDbH1GvXKrSg2cinsVWuDgWsNpyDlD9kv4TDkgZE7diytQ",
+      "view_skin":"https://lh3.googleusercontent.com/YB7vJZRhjnjutWwiISyiTKE8-vsUxzjaFKy291trWoZ_cgTp__pkl467bpQi9JluevKwaWgwTZ3a2QSzshXZOXb2TULI193HJi8"
+    },
+    {
+      "id":31,
+      "nama_skin":"Red jacket",
+      "skin_url":"https://lh3.googleusercontent.com/IZWec66EBlhc2FjLzx-yAtc70SUsPtMpGjhbp8cRAUpi6gghOadmsmcNS9gO1kk_5pN9RGSMcT4_v5tD0pISFrLBCEhyZ2Dk6DC6",
+      "view_skin":"https://lh3.googleusercontent.com/SMFKPQRD9g3KKZySZBnQ-weuWpe3-jlLmwgzJWvgYjhtIeg3mcNI8plVFa3DZf5jC4balfRNAjZ51q19bDTfzxRzZiqgYK1_e9U"
+    },
+    {
+      "id":32,
+      "nama_skin":"jacket",
+      "skin_url":"https://lh3.googleusercontent.com/IDZc99IBxhsYv9s3F5PV0RpqeycHZDXcOdf1whDx_4cvFbK7pOqkbpA-V8A6aIzqFDcQB5H6-xI-ouwA_Jcgw6OxfLS6NvO6LPw",
+      "view_skin":"https://lh3.googleusercontent.com/Rrmv7HLTIO8XLMKCeY0UPbrga1D-F1RQLADCvHhrEwiY5IduMF87a7LTaTLfswIvGot0m4Y3yaEpEjT92BhLk7LF6XHkCxMcvA"
+    },
+    {
+      "id":33,
+      "nama_skin":"jacket",
+      "skin_url":"https://lh3.googleusercontent.com/0pdaKt7bh1e0bilP2GMB4yAjvuZgFeTjHDFrGDdYmFohTPohgN-sTm9mwQPwITOQK_kNotbpw2qi_0MhiNwdDIq_F_YUKpKnSg0",
+      "view_skin":"https://lh3.googleusercontent.com/nIOfHqmcDSi1FKGK9hC0ML8H8OVQG_kLEJ36co-8pB9Z0TU-PRNltXhd7ImsDvIe1fCoiRJ1CFIhX6UPI4f2EYShL1GjD-_92w"
+    },
+    {
+      "id":34,
+      "nama_skin":"galaxy jacket",
+      "skin_url":"https://lh3.googleusercontent.com/8-ySZKI6kcZckYyYpjm_oXo0J8V7HaHYlEjLcn1CLSeRrN5Pm9Dpnmmw0AL_KmVhv4-mfEdn8CTdkWrJVK304Bv9gw1RE7qUPw",
+      "view_skin":"https://lh3.googleusercontent.com/Ewkv_Z7z5jsU9poUdAEo4T9oucGXeutm7eYQ4WPRsfLU7oPK293ihLKGT7NxZT6tGWfb0_01jvNE6Baphlw4DyimUfurE1OAM4k"
+    },
+    {
+      "id":35,
+      "nama_skin":"Batman Boy Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/0Kl61VpeomRI-DJGc_rLFAjq1PUKA6m7PfxZhXqwFwc8RwwF5LVbBGKbvZGd6PXFSwIOw81g41B2mhPSo9Ii1UOwV152pkqtEYE",
+      "view_skin":"https://lh3.googleusercontent.com/VZaHz7Q2QGseQp0yl6YtXmJl75HBUwDP7kFUiPoZ87EDqw9dtwxMLZjbRlUI4tUniE8tBCSshBOOi6baLMkSzsr1GSHUAfoCaQ"
+    },
+    {
+      "id":36,
+      "nama_skin":"JACKET BROECKEN",
+      "skin_url":"https://lh3.googleusercontent.com/kqQtWV-1NPfVGUat9PR0FKOsXQhky7DxS8BiIuHL72hsC9Do9Ye2Ynok-OTdGS8aFoP5oP85gs3FS-ra5ePr-hgs0u4MNlKlXQ",
+      "view_skin":"https://lh3.googleusercontent.com/cT96-Vud7fVEqQ9WcMjCw3cG4V4qIcDHKy0YdVf8YdfcUtUyA8DP7NsyaRLOM9fF9IlThGcmHq1-NA5ZLMxj8OnWDoSKYFr8A1ak"
+    },
+    {
+      "id":37,
+      "nama_skin":"red plad jacket",
+      "skin_url":"https://lh3.googleusercontent.com/zfJnXB4Bz7qmcA9erl5gfbSNFs5Z1jPw1HHaGywrAacxpsLp-ijBJjceuOKFUfzA0uTvZ_iJy318fg8Ze3yM53LQPZNvacqWwg",
+      "view_skin":"https://lh3.googleusercontent.com/m1YJRPH02OaCh8y2R0cojnv9ULVAR9Ucv15nclolBxgwls5UEAmKokeqdiCXFOjQJs0a7IlLQjmm-QNufuuKaBBIH-meUMjBodk"
+    },
+    {
+      "id":38,
+      "nama_skin":"sosiska jacket",
+      "skin_url":"https://lh3.googleusercontent.com/fCuyUc67EDX0JIJEKfLXUEh7tESeCHKPYqy3e9ubOgRMlamsiE_Fi-DX1iQwQKmCE09lJESqqEW7K8A1AG9R",
+      "view_skin":"https://lh3.googleusercontent.com/Fko1ZKuuALmnZ8GDDauOLoYhTu76UoLriWbyXL6ekP9RH_7dkDVgsF7tDtC0VGk8eMANvViof9uITQBNrukwpg"
+    },
+    {
+      "id":39,
+      "nama_skin":"Evil Kent Red Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/sWbEXQeGU-XOVv6LbzdWo4xZ-9VMDYG1pF4tVX7vSEJPGBOxYGS5paLyEr0rvU78af_XpBnmFkNxDMM-SViDbB1FYYDmWTF_rB6p",
+      "view_skin":"https://lh3.googleusercontent.com/zHLENa_oCehksCCPNcPxsbY6ZYwjeEcC9zK6H2XicdjbMxYwoq_dvBvIzzAm977BKL2yZiuyCI9pTG6egRtpoaew2VkYqK-jSg"
+    },
+    {
+      "id":40,
+      "nama_skin":"jacket emmy",
+      "skin_url":"https://lh3.googleusercontent.com/-NtbnXnwpj_JZWTIAIu9Kerv11oWZ6V5z8zbwp4OLASNWwguljPRIPrZZn5ZTPcoIyOcfFOVqeio1bKl87HXpZeTGPbzrmx9Z70",
+      "view_skin":"https://lh3.googleusercontent.com/VtKib8W9ogNWeuGfdpqdl50fdw9b4LgHfdHpISI2hiPFnaAqO0SJon2UwePiQcNVdV99OdF45ojIJ06Za0uLBzVmfcBEETjpeA"
+    },
+    {
+      "id":41,
+      "nama_skin":"Evil Kent Brown Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/Ks_LoCxlCPzAhafRBc422-tL4rvFafo9x-vI9C7NxurC4vcfXwxLb2JKxn2ylR2P8uZcWtxSVtIFIH3RF2fuCfwcIZHxeLHOXFBJ",
+      "view_skin":"https://lh3.googleusercontent.com/cHOSgc9YVtmy_oo3MbRn4v0Fjp7NYjI7wW7XyaG7L_PQlbtSB6QMWyy7vf5p6zVbKox-RpM6Eui-ZST047zKbR_kJNd3KhA92Q"
+    },
+    {
+      "id":42,
+      "nama_skin":"fbi jacket",
+      "skin_url":"https://lh3.googleusercontent.com/DJRQXq3ADuNAG6ZTb9Ls-YZghkp1HliXvPSz-MhXMmyOVpkBSt15zxkn26wdjupl5u6-vt17mtn96XSjadQgmybclKJZCRFb23w",
+      "view_skin":"https://lh3.googleusercontent.com/NcRUYjCDhicg4wPCvNhEfBxLQotMjHounFtm8oztGwitjdk3BYYVNTlxn86YzWdzeM-H6KAJ5kkxER9ztKVqzt2AutC4CV97zXg"
+    },
+    {
+      "id":43,
+      "nama_skin":"jacket pig",
+      "skin_url":"https://lh3.googleusercontent.com/s4J1LWgrFZqrCq4LfDHXhueWNOW5IGw5OT15GTKL6XhbZjHi2aMv_16KyO5Fg9h8AcA7U2rwNNJ2EiX4duesm7U",
+      "view_skin":"https://lh3.googleusercontent.com/QoX9KCUQ30_bxEFMjw2-7pL5lgccvqXoSWvrlKk_fejhOAG5ft5M7bBJNQJ5vj3ujFXNLKJiX2zBY1zdS8wuOFdjhfON454lcQ"
+    },
+    {
+      "id":44,
+      "nama_skin":"Hooded jacket",
+      "skin_url":"https://lh3.googleusercontent.com/9rFB4rCaaDZG19Fb88ixIzWRytK0FXfOvPcB-wkD-3oUsQaoiIJXYJKdrzWtqYgDOv7etkibSqF8LDnO1ciZNXm6m4iLkFWjJ-w",
+      "view_skin":"https://lh3.googleusercontent.com/sF2GVk_ckPGfrixO8b6H09gkx39QTqUjcf3AzbttyCxr1blDAg-X9LZ4a-arUoib2fMLXvPlJnZT-ECyOxttzym0b9oQPu4XU4Wa"
+    },
+    {
+      "id":45,
+      "nama_skin":"pack jacket",
+      "skin_url":"https://lh3.googleusercontent.com/sloRHPWYu5EqXUJEZp6c7MKCHkfLsCiEDDJ1eI8GtnfAGadR9oHK-c1ha5xJUrHfL9OjaEIX2XisEbYdouRiwZM5xvIs8oGuukY",
+      "view_skin":"https://lh3.googleusercontent.com/62veQ63WKg0D8-S1jWLfnSDTzQQFEZNc85uEQRaC4jtYwgxcwNW9dySdq274mBRYgURvuemraXJkZC1F-HkWhgIErXCtTu-lrw"
+    },
+    {
+      "id":46,
+      "nama_skin":"Qirori jacket",
+      "skin_url":"https://lh3.googleusercontent.com/0U7DRPPR4hVqRdr7ul6Qg3Gxv5jpwBsRqqPYcPTFIoIRihAGFPJUBmz17RSGIm3NfsPpGJnS4V3m3LK8jjVyrVXMY1E_vs5imU4",
+      "view_skin":"https://lh3.googleusercontent.com/n6j_In4c8TJeATSvynIKnaOKgZ-xIZnFCKlEXzElE8zDp9pbi5tfegIgsh7fD_e1fdq9mu0rxPR_8bFPC3xfr641xiAL--Qx9eWX"
+    },
+    {
+      "id":47,
+      "nama_skin":"Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/8LvdTenccnN6YkfLAuDLoky_OaLMa3vdf96yahKb3m3wcfYLb1ZLcnEKcLG7Y4WJENZPu8DMPNaRCvFNGZRAmQ",
+      "view_skin":"https://lh3.googleusercontent.com/5UeNuSfDU2OIlBRFkCl8Y1ikCL49GR-A8cbL4x9mOT_jV5tpPoz9HpHfZO7uwnou64GSGIoN-QqyyrBxcsRicj8l_sYF_f-xAj8"
+    },
+    {
+      "id":48,
+      "nama_skin":"black and red jacket",
+      "skin_url":"https://lh3.googleusercontent.com/BlAn_PElMzdONzpmiMm2FeAyiM4R1ODPqWiLkyajfKavNgiM8hnYgh7UbIUOqRQ4IHonHodzhqWZcNFGIuFVppTtyzy5ADyAXTo",
+      "view_skin":"https://lh3.googleusercontent.com/rqE-3_TLcQuvA4cTSjamvDRIEqiCsVZRTc2F4b5ILw34qlP-D0T_6HHygUIBozKDk5OLAMJM4iE5Eprfm_9D4w1m-DbkVVIuRHQ"
+    },
+    {
+      "id":49,
+      "nama_skin":"Denim Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/XpEvuTIiy-mjNNXmA7FA2Gp--9GI9hWowgAmBcoI5OBfoaa4GS3643_cFGqIsfM-e8Uv5QThpTmlJTlBRbR3Z8gxDgIIT3ZH7NY",
+      "view_skin":"https://lh3.googleusercontent.com/jqKy5jOJvlhu_bGtCqGGYU2erSxXWYqXyxZmHFGS5qeeGTENMKniT1jBj-h3azEMpOi_yfllMmc1Qnh1KtA2YbpP-I2PmtibHLQ"
+    },
+    {
+      "id":50,
+      "nama_skin":"chiken jacket",
+      "skin_url":"https://lh3.googleusercontent.com/ufgYiAM1GLfJ17cKesSv9j3-YUk7oqmgVtm5ACt_qRT6HMgK3iMUjLzCLSZUY6S8esp8qHix_OHZmWOpKyMu4-cIlUcdgThewx8c",
+      "view_skin":"https://lh3.googleusercontent.com/5gKkPSYyyQl7bMRC3kD4cMbC8V_H8z7enGAPxDoKf8by5QlIVbAsZndBWOUtf9QzDgzdb93TOk0zCiQLTyWzH89fqCK6j_ZFm0E"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
+
