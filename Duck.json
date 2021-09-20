@@ -1,0 +1,346 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"SADAF MODS",
+      "image":"file:///android_asset/Sadafmods.png",
+      "link":"https://play.google.com/store/apps/developer?id=Sadafmods"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Duck Girl",
+      "skin_url":"https://lh3.googleusercontent.com/222HzQlDhyFuGAPBpcHoID2Hq2a3frJLrwt9nwOTsjX0CtLWdGRMcTb-ccShZPHimHIB3Fi9WYMlTYYpTbIZ",
+      "view_skin":"https://lh3.googleusercontent.com/sO-cNrRFLqTtP9lLF_p4lHSYd_mSKYlhX0QFxveZv47WfB3o6S5d06U78aUAKqHxGkvN0Mi-EN_02EmUdKJD"
+    },
+    {
+      "id":2,
+      "name_skin":"duck skeppy",
+      "skin_url":"https://lh3.googleusercontent.com/Es3_E87PbADHk1Zl_JsniGRnlisJmNdNjG8qptTCK_q5w3Lu2OOpYdH9vyuq_2tRv0pLmGDecyZ8DajnW71kONc",
+      "view_skin":"https://lh3.googleusercontent.com/Xuiu9QrRTM_TH0fyGzYxa0ChQFIBXykKGaBzgCIuGIOBYovzui1qmRxBgCYBz2Z1tXFVcvFPhKM4HL5XdWs1Svc"
+    },
+    {
+      "id":3,
+      "name_skin":"cute duck",
+      "skin_url":"https://lh3.googleusercontent.com/Z-UyTv1vMBlNUE2K5EJ3Xgsa-p4LHAXMW9ALsOcMZrh91rMItq--0c8P6H4WT4cf_p4aVdhyDvvevypWRP1pfA",
+      "view_skin":"https://lh3.googleusercontent.com/8z8xVPDgjXamOrwumhEPNfReEiCDovTUTUTKlsOAmOZOkLvRZzbo2OZMzzqNQxBRl32KqvGba1eJCuIfH4CXew"
+    },
+    {
+      "id":4,
+      "name_skin":"DUCK ANIME BOY",
+      "skin_url":"https://lh3.googleusercontent.com/j8NzWADdhW1Mexl67YeH7Uq1S-qf8MNTNCyHS73UC6zoohRm7Rf0BJRzUOPr8bERH_AeJnAJTf-EGCZYRSm_",
+      "view_skin":"https://lh3.googleusercontent.com/m38iuY4JlWvszdbAVN4V3l9cOcJlVhthDWXyqZyYBzp_1Mfd_7a-qxUMy4gYXWHZa9Qa4P90AhICqVtkRfgw"
+    },
+    {
+      "id":5,
+      "name_skin":"badboyhalo duck",
+      "skin_url":"https://lh3.googleusercontent.com/HGaTV3C4eerd0vox5bJSAFq_p37i6tEnbA27dJ3wiJfNAu_XOK5VdC6mvST6fMc0si5zCOW8wBZqU4HuO8u-tg",
+      "view_skin":"https://lh3.googleusercontent.com/3nbB2clgn2MreNc3XR4DplUciJ3nNO7-KRFVYfMtbhRfxaIH_8WijavpHHFoM3NJBijReeHMSQ3zEpUBoDxa6g"
+    },
+    {
+      "id":6,
+      "name_skin":"duck girl",
+      "skin_url":"https://lh3.googleusercontent.com/jsQ8mXderq6Dl88ssNi-siFTovo7vi2vkaLm2AyVslzBMfDac4RB9FXGga8r6m4P8hbpHcaB6fOHvSEJeEla58c",
+      "view_skin":"https://lh3.googleusercontent.com/3Yy3JYBciCdBl0x5gA5kwqBQtr0iV27WXoUQQ1RuyWw7okN6WhruNVwuOoCGYMOUgSBtzemZ_sN7Sv6VaJq4Og"
+    },
+    {
+      "id":7,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/hCYyMOUb4-zXvHPKzAKHafIrDEPcBkk0FJKNfscJV5UUuPiZDZ4DjKgR7HpU2JaSTF8yDDhSS58IClQxICCK",
+      "view_skin":"https://lh3.googleusercontent.com/tkum_9J2-fBX8V74KslOnsKhwWRkGdLXqG6NPtSTdx9YL6GaLwqjIAwy2a7eYOnz2IvxQAM4h5MYHTi8ohDeoVk"
+    },
+    {
+      "id":8,
+      "name_skin":"among us duck",
+      "skin_url":"https://lh3.googleusercontent.com/9RpaJq7AJh5CxovKrePCQ6MACSviDrSzqYuMG7uENSQiSPAlPN9StySwmXQJkFuiI4aVYRQ93pVM7DKBbIQJu70",
+      "view_skin":"https://lh3.googleusercontent.com/LCLOA7q4z-gCDW0-5Ctl5FyrkM_bteQIDpOItlGKhodhuF2WJPmuNS2QJSNz9_V7pcfmFQ9I-4Z_YzSOqZed"
+    },
+    {
+      "id":9,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/VECkOufQOWjJVLDiYwQT0i_KXU4ILZRGYEbNPUWHOBAhJxHWTZc4BM-x_BAaFArVkeuyyoqwhSRR90OJFLANfg",
+      "view_skin":"https://lh3.googleusercontent.com/gvuSr8DHCnOki1G1SF_ZNLmFXvYvy-a3u1eQ4y9BxSBXi4PXNMREaocf3y7UCGixhwfZBmySxQgddzhfjZcbU8s"
+    },
+    {
+      "id":10,
+      "name_skin":"Duck cute",
+      "skin_url":"https://lh3.googleusercontent.com/pR7NDTXqQU5zyXy15rzv6U6rQQfzt42JPHvP_sW0_WSaijbbLkntT_8RcnJClkZDIhTUkS9VE_7g46Dy8It8X1iHLitQ-WIpJFE",
+      "view_skin":"https://lh3.googleusercontent.com/iD39yYDVOOYB2mqyQ8LyaJp6rNO7b3jFKRUNqV_9crIqnTXW_gdMe8us5RvnGMJFXs6J4LPLwGuKkI9oRRFrIeNZW5fw-JYriM0u"
+    },
+    {
+      "id":11,
+      "name_skin":"Dream in Duck",
+      "skin_url":"https://lh3.googleusercontent.com/pV0U7HajAQUnmh3lzJFmzJ7vwOzmcxsigxiBlG3XJATNOsC6EhcaZ_i_AeAAmEMFWeAjOh-jzt1NfbecoVByFkAiPkURRPKTaw",
+      "view_skin":"https://lh3.googleusercontent.com/S26d5s2U2eLsauSTZmnloKaCcC4SjEopN8wqtHxbnbD3n0yZCirYIAQl4NQy7cZcF1NrJonC_w4RuECczQhJ8XqfeaTfpnMHkA"
+    },
+    {
+      "id":12,
+      "name_skin":"duck soon",
+      "skin_url":"https://lh3.googleusercontent.com/i6IFGW-doDgqpeO2Zz_hDFCKbkUjHDBuhHfKl3sc-MgU8mJSGnjD-APUSBq8fmOafoNIn1EJqZJFK-IMOzSW5TA",
+      "view_skin":"https://lh3.googleusercontent.com/ebIc0Ow4TqfPeSTrrE5cBHin1WAzuFO1XNcuB7AB-X196bgd_x_4zMVNxysaWDPNnj7UCu6eRNnbS7ehWkpNww"
+    },
+    {
+      "id":13,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/cqqk18w0tTLb-TgwuQP5CjVtPsAur27_WxXVbHBQc3u-s6aAJERqDKq_6KzLWM717P3VMspNRLDbWHD-rsX6zA",
+      "view_skin":"https://lh3.googleusercontent.com/b31ZTUuwA7JOOcjE2rYE5SvlGKxSeXWFv3wp3Dpw3HIannCMihARROAksNWP4qaQBAh3IO2nnCQUz_ROXGCRMA"
+    },
+    {
+      "id":14,
+      "name_skin":"Duck girl",
+      "skin_url":"https://lh3.googleusercontent.com/k4d90S8GLsMzXY_TB83NJjbKEga-48dxlSHzZl0CXSwWjEDP4zmhppsZ2c6CKrk_KGtcDEiocmkjC3AYkugx-A",
+      "view_skin":"https://lh3.googleusercontent.com/_H58DMd9GNLpYY3-H828Adyj6DnQYzUD--kBPMmfwTe1tk8REOHYQpRt9YVEhNthL7Ud373FIZ78bwZ498_94w"
+    },
+    {
+      "id":15,
+      "name_skin":"duck girl",
+      "skin_url":"https://lh3.googleusercontent.com/FFSawG0gfImerD8VvG7bLCNo3L9RckH2SM_ab1hRL9KVGYdceRerxvXi1oi9tsLL3YSWwZYVkAYa-f9glqI20w",
+      "view_skin":"https://lh3.googleusercontent.com/JQDj-adGRDYJ2VlCZw2uT81s5EqmCLW-x_LFo8KSTSJBKnxlJ7OzwCMrtvPSUi-XeQOEhj1OCAud-bjY5-FkJC0"
+    },
+    {
+      "id":16,
+      "name_skin":"Donald Duck",
+      "skin_url":"https://lh3.googleusercontent.com/hhcw6yLdh472XPYHYvaHF_mfMJ0En_gsNue--H3wSUZlXvMavqOdTfsI9reeV1QlnFZpxgOZgZT0gAPiPxWZ96Yp6EH60Q-j35U",
+      "view_skin":"https://lh3.googleusercontent.com/zy-2aHSa-EfCbOkEUXvcDPnmALX1Ed69kwXE4VHIDwbpFrfQEpdbKhb_sabrYHWwtmZKlQnlUD6QEoRnk8_2R9v7GREsqDyk9LE"
+    },
+    {
+      "id":17,
+      "name_skin":"duck suit",
+      "skin_url":"https://lh3.googleusercontent.com/vmc8dN4ejJpH8Ny9njDFCpbKJK0FYV_swr7jEl8gfYVWoJD-2eum63S_sEBB5Mk7N7OAMRj5E_kjz-pRX9Dmqg",
+      "view_skin":"https://lh3.googleusercontent.com/ix_fIbKtVe_q-WhJgsKC0Sxg_nkA_gqrj5Fb9k1fQWOwhqB0MPiU11UVfoBVxG-HQ-0WFnwnKQET8Tx4wB39Yg"
+    },
+    {
+      "id":18,
+      "name_skin":"black hoodie duck",
+      "skin_url":"https://lh3.googleusercontent.com/E22SFJRI-YNflZR8tjdl0am7oJxVUjDG-ifeUrIIJ2X3fYf92wIPoh-jgA0XhAPGFro7jwkPxnu8GNGsRHOp",
+      "view_skin":"https://lh3.googleusercontent.com/e7LbLE_mV8blWjrFwKBU2DCEBLBb2_q5Jc6ZHyLSazpOKCesplHb3_lquuq6JB9roY2St8DimPOEBL8iBgYd0Q"
+    },
+    {
+      "id":19,
+      "name_skin":"christmas duck boy",
+      "skin_url":"https://lh3.googleusercontent.com/Ryx-mRTkE9baStGWs9FqyZEiYp3T59Gp9927cATYRlPeKQEb2PYlFT2aHNIQtUNTRfBjhHtulEPBYALF0aAesmY",
+      "view_skin":"https://lh3.googleusercontent.com/ANcX7BUTh0e4ZNzpLJe5ITWDctyoHQWEtSGf2bDn4M2eDoIy4cRTqZLrnipnsD0fmXqWanzmVOVTEO5b3U6j"
+    },
+    {
+      "id":20,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/5q3N3wLuo8KubtSiji05HVvwwZhWqoOW4LtYceFnmB38T6xoeWlKbwMMr6WBCl9Vc7xgCM_V6Vc3EbA5S-nmcg",
+      "view_skin":"https://lh3.googleusercontent.com/y9zaTrHRkikAfh6jU4Ovp0VoakiK3Hx3Ceh9jcnIWZjuHNN1QoKME6tLUCU51OGM3JpaI6txHzMahwHIq3uiNw"
+    },
+    {
+      "id":21,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/E4au_QjUZDTWHUul84kmaonsWrdyhiEGbWpAmfE-8DV0axaex1sHDwYzd_pHk8b0uWgeNW5-yKS8HgXU0_hd8Q",
+      "view_skin":"https://lh3.googleusercontent.com/l_OcIY9nfKL42i6w7LrHmLIUGpjZBUQp-AU0xGk8Op7v7Gau0SaAycjA3RCNqdtgFPGLSQnqarhkdDZoayCm_wk"
+    },
+    {
+      "id":22,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/H7PGtN6HqIjwP_GVbDXeAWRNJxoOaLYLvEe2Vd8l6CBhzxEnKNUmbszxpvlhegRyIzfwgRvuY9ikN0YtThwN",
+      "view_skin":"https://lh3.googleusercontent.com/bvDaEs_FURZmVA9wgDi3taRL9o1w803H1l925k628dR9bWDicCYrMQkwqjlPRtQnYe4T5Id_o6I9gQvNkfe2HPhOXDLZR78ydA"
+    },
+    {
+      "id":23,
+      "name_skin":"Baby Duck Boy",
+      "skin_url":"https://lh3.googleusercontent.com/TsEm0LPtLToaKqREccoizZe31YmsSw2PMETvvbdxbQxVhWW5Uf_B8zgIM0aBxa1q7j3J3nFXOnBVT31mW5brSA",
+      "view_skin":"https://lh3.googleusercontent.com/edhZS7NV4LybVdSnS2Zpi7ySKRac6phgJcIyb5LQNNJ19e0rHfTXEvIQgMWPuji3DWtldutPMBn2OnisPFmE1ts"
+    },
+    {
+      "id":24,
+      "name_skin":"duck sapnap",
+      "skin_url":"https://lh3.googleusercontent.com/USj0z12Qyi30NQdFGb-rtLkJN9NugFHU4CkMDkUsOseWS030yIWI5mUchz-Eg1O93LWErjNXqolyI2V8KdMw_OyFYMMowrIqwg",
+      "view_skin":"https://lh3.googleusercontent.com/CsWQ1GGv7TL0da9qkX1HTD3_77mdJVgcb1eOBuxBuOP93P4uarYGPQ0SsozrlgwE7hRXQgxXpwLMY3fsLzxcg7f677I0qjMgWrI"
+    },
+    {
+      "id":25,
+      "name_skin":"Duck boy",
+      "skin_url":"https://lh3.googleusercontent.com/xKTvP9hHowOI9jCvzaQcm8RRWF1cbecqLdbvlFEyPGyfGk2NSQ2LaQY_lU7s3apvVghKa5E5vFvNJ1a82funmw",
+      "view_skin":"https://lh3.googleusercontent.com/3qI7vsnvQdOPdwxmMIzSuc47Gy23ekdHI5KZuyElb93fWCqxr--GqzKzudYnCboqHSfya_Ay71xz-92KcHWPCRM"
+    },
+    {
+      "id":26,
+      "name_skin":"blue among us duck",
+      "skin_url":"https://lh3.googleusercontent.com/eutgMPy-di-q2Y4Rs0LlrtTAPDPqe42RyyBz_YHRvJ5PxZhswybaP8YG3iruEEJ8h4_LSdZo--wKgJy1Ru8zlnk8YwCjZ0hdqEs",
+      "view_skin":"https://lh3.googleusercontent.com/8_n0jQgXgLNqvg1vXd0B8My3pf-XOgwiqVpzaPByvHhls9X09Iv1WDxVHvY6opw9Bc1J8zryfqBnbfcK4WOV2AelULKcl0XyPQ"
+    },
+    {
+      "id":27,
+      "name_skin":"duck boy",
+      "skin_url":"https://lh3.googleusercontent.com/0nCsoI7P2pYhiv-XPMwf9EEfzn-PQa8iT88HLZPTd_lH3idxKVO6Nr3BlP-IA5z-Jr91fbTzTGlzPCrBkfiOQFBetEvbMqTsxtU",
+      "view_skin":"https://lh3.googleusercontent.com/I1BkmGnfedfK1nI-CORKvsV_5F9gvz-zK9i6snqe7FOwdYA74bSg6WgG3Y9KeqTL61XC7AwpnQfNctUMQ4QaMAf4ncIui9eoqQ"
+    },
+    {
+      "id":28,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/I_UXwOCZHIOMRJhkmg1kF5nennhi4NGJVv8aSYhqE9rshCsb3xlIOjE5kX_1ckUxFVxwkVEdyD2ukacN6rcbGN-oQtY6DM_E76xi",
+      "view_skin":"https://lh3.googleusercontent.com/y6eOesqhRX9Shloayyzkbte-ZgeZAsjL8GsOOnntRWCFSubNZLO-V2vk9oXxv2-443xnHCchyKLZvhizCCBLxpumNDd_yjWjXKs"
+    },
+    {
+      "id":29,
+      "name_skin":"mushroom duck",
+      "skin_url":"https://lh3.googleusercontent.com/VjgB9V44Ro6ssMbK8kLuk7Wcib-aju1OvMLjBAsiLZZhQrVb12oLaI_1wVpKIXwrsZvfDmc3sz5TOUM1Xd9HR6ufvyeZBiWxwnb_",
+      "view_skin":"https://lh3.googleusercontent.com/ujyH76Mlzo6fxiRvDYgEcWXhMAYFZ9cUzvw2pow7pgOz4t_w6AbDVh_cFOuysJ-zp4DoobM4WkhLyfbLBSP1G-8QW5Iw1YpgazM"
+    },
+    {
+      "id":30,
+      "name_skin":"Kawaii Duck Boy",
+      "skin_url":"https://lh3.googleusercontent.com/1_3ZxH0ezGNKWOql95XiFcr89Dr-T7lcb2UheVbs3eKGbwq59wFgdQWnJMBpLHtJcIO7ZN0styvPgjbbAFZsrg",
+      "view_skin":"https://lh3.googleusercontent.com/2EAXRvvK__bScPihqx1gUGaHmSU164angitggj5AHZGNbHcpQG0p_f6u5lGYoVBXmOCBu78AQAM31tz4EBsK"
+    },
+    {
+      "id":31,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/8lJfQyM1C-qfVkwpWSu-yaZY5r6AfKLkPhCOIo_hQvgXctMk0ZmdhS3oR__mNw7IjjsDl9ASZJX8rPwIjKoegA",
+      "view_skin":"https://lh3.googleusercontent.com/qpUcKYSk623KGBLRLAA6Fy1VFpJhRLxe4d7taIPJxe8HUxJ3QMankiK4MBMqazHnSZ310FfusF8-meCnYXDTMw"
+    },
+    {
+      "id":32,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/4n5Mdq9b3b-4b0yM_YFskqVDPJojXmhpMV79hQOj25EIsPedyZcInK2Ck0Ax59M5-ep-_uLCqA5GTposgGpx7afcv5JKHqs4xA",
+      "view_skin":"https://lh3.googleusercontent.com/ZludCSmqdDAT4ZLovCdJQmRbvTApKpKsu7vA1WbIfKGTgsxRF9ZOrAMxytkdBnX71xqatqsdtX_0KXakeqszPzvRIBHQFs4pHA"
+    },
+    {
+      "id":33,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/f8rXldoeN_D3Y-Dzb5fFT4Jgzim0eMaNXLW237H8Fzh8xG16s-RPZ7JTpu70oS7bHqBhJ8tg-K3K8erUO-jDNck",
+      "view_skin":"https://lh3.googleusercontent.com/EoN_yzgYeb2sU9IbkzMRGthHP5E7Hmnvg-TIhtIBDY_qC1kfEze36fk4l9gYaRlVjLjP3wILYEx1q9Ip0vp4TBA"
+    },
+    {
+      "id":34,
+      "name_skin":"duck boy",
+      "skin_url":"https://lh3.googleusercontent.com/pptanWeXPRzpz5jWrKCNTOF9cko0sc4vPff30ClC3kc6nHJdxbdb53f3kCFiRwTMLGQ5VTyDMlL_T4yH9V6i",
+      "view_skin":"https://lh3.googleusercontent.com/4GuFmS9G1O6g3PTJTTVfav5J2lePVDaseomuivqg6w593HgfuPBbh8K4rC2TBhiN-akeyJOziUOWSqto5XXyRg"
+    },
+    {
+      "id":35,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/9o4S92oJy_8IO1gJ5WDIKh_LZ4ciKgti-OrJCa32j54uHVcEzRJrq0V9vqUyKIS3gKZxFnSsNDqBuj2nEJfvnlB0BErl_ftWztA",
+      "view_skin":"https://lh3.googleusercontent.com/IRDzd1py2MyJdwyzb2eektyvb5udsj0w2a8PRQiPbn5J2hp4E61IbQymlGMbTleRatmZVJrxYB5VNtT550VcgwaibumaF9bnWg"
+    },
+    {
+      "id":36,
+      "name_skin":"miner duck",
+      "skin_url":"https://lh3.googleusercontent.com/Vltey8YKC6o3yZ1lxxG9oHgTgPc0bFTlht6Ue7h6WLS-IJk82rkLojSRc82OKxNszV3zllvcIWZ2ftn_8G0WO_qIs5ZqS9Qgl5Q",
+      "view_skin":"https://lh3.googleusercontent.com/ISoNdu_AB_JzFk_Du72OjCMr6G3biKnIDG8J8X4Tpsemww8X4QDDlsWbFlMzfBmcODI3ElimE2B0YkS3QG283-dZsQ6Rc6dhGUI"
+    },
+    {
+      "id":37,
+      "name_skin":"Among us Duck",
+      "skin_url":"https://lh3.googleusercontent.com/_qqIB88VTwyZ1KrtQDwCICFYJqan0qbEScpKQrU4zVj8FuggCR12hn93KRB-BGD8XHnaVeg7B5MElcleGRWXbg",
+      "view_skin":"https://lh3.googleusercontent.com/Giapysgz4nw4GpGmmtXM8l6d8MKyh2DbU83OYf790qY_cfx4-3kbnmKQXBYGqGMdHW62vtQXj6u4EhE-LKtk7g"
+    },
+    {
+      "id":38,
+      "name_skin":"duck girl",
+      "skin_url":"https://lh3.googleusercontent.com/Cz_gx4t7k1u8uKnkDyU0OoWotmExy3CJY-Qcr8XhqVmhKjjTLp_zqVhMF_2qrDrkrYM6sH5Y3ui8LPWVwkIrOo8",
+      "view_skin":"https://lh3.googleusercontent.com/nOx7_HhXr0LFEmdtLOSirQFkOWYm21JV1W9d-8lITHUmU2wBjjFa0Cr3Np8eNVMxq2iuIIp-CsCIlhU1hPdm"
+    },
+    {
+      "id":39,
+      "name_skin":"akatsuki duck",
+      "skin_url":"https://lh3.googleusercontent.com/XaLIXFIouoaMFsYexq5MNP5GooSljk1tIXBNYoXQ_I7Dkn_hsvMy9tvdWy3-G5-IK6OOt-08lSUWnnynyPlVIAfKdFA0eVYoYVx6",
+      "view_skin":"https://lh3.googleusercontent.com/218-O32ES4rtJw9z4qi60IjcvBr-sw4j6IZ01GtekBblAHaG3oRtpovOOxZZaDNSP4g28JLThPIa5mtdc6AvxPi0FtULtxKUyEo"
+    },
+    {
+      "id":40,
+      "name_skin":"Comunist Duck",
+      "skin_url":"https://lh3.googleusercontent.com/iwgEvKbSz04FW-AmjCR1fOxjJnOQ0uYlwVzCCTnAJwGLtfb7EGI4IFg5QhNspnYBuCF9VNOG5Nk2qmcIve_wakWYpISscKjXWpg",
+      "view_skin":"https://lh3.googleusercontent.com/wO75o0tglNhmomyOS_EbeEkLhPL8EC-2tAWunQiqRd6V8NAIlEERAfy1lWB7cU8rvyufk5136xEBnbmSCYPCOCOQwiMHKX3c9Q"
+    },
+    {
+      "id":41,
+      "name_skin":"DUCK",
+      "skin_url":"https://lh3.googleusercontent.com/uWb1vmGt9ScOT8u7Vcyl7Hg03TeX7PudQY6nepR6jLMdAngYKTXm_w8TJP008_BR5jeu96OZV6ANr7Y4rwDtsCksLpTDfPRYMTUo",
+      "view_skin":"https://lh3.googleusercontent.com/mtitHQP8QVSP_Bb88zf_bfOaNXCJq7aGNONiIEyI5-0yZzXFblTgmQQF2C8XkjRS9ktPqOv2YbKuSabpOeu5gCf_09LFP8D48DA"
+    },
+    {
+      "id":42,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/jAeWTAQJLC3wYz3iyphdtqn2ebdCa1y6HN3Te7YPyXIJBRFJMlMbKO6w2XTZelz5TtOKrMSdn4voAxi2OR7Wm_joqPPEMH1sqEQ",
+      "view_skin":"https://lh3.googleusercontent.com/4ob_BECQxvmPpgFnk5R0IDDpxw92yENmdln93Kr-3wvrfphLyAFFEmcW_G9u2N0OErknwDlxQ80IqenvW_YIxMDjU90BxjdJhKo"
+    },
+    {
+      "id":43,
+      "name_skin":"Duck",
+      "skin_url":"https://lh3.googleusercontent.com/rfChvvbrjSPxILbmsPk3WXHGNtdyoP2lBfvmKaf3mOjVvGhBLKoRdGWc8qmZJVj--FiOXdd8dtAAetADcbQ84Uruc0Wy_luv1g",
+      "view_skin":"https://lh3.googleusercontent.com/prFx8AND95EKd-2R9grlIr8_cO_VJDkHgwSfI6ltY4DpM5Jc0ZnWgnPSXXrzatGls55-O1GTEeaNtw64q8IslceYaKI8FV8rMYjS"
+    },
+    {
+      "id":44,
+      "name_skin":"akatsuki duck",
+      "skin_url":"https://lh3.googleusercontent.com/madassnJDnenM5ouWCPmeKsGgIe4u5crjVRBU_S5bUl0JOueLsCSvnFgHF5RH8Zo8qdjNV3qzarjVjlU6LqzJML0EG2WIl7d4WZ8",
+      "view_skin":"https://lh3.googleusercontent.com/n_Bdxo9bZeo9QheT_3rGJyrHiFI46I6e6bEekaY8v6t-a8RP0EC-Kx4ND7geQdK-GqU29j1Cbc6VGQzw6pG_X4kE2fPFL_Xos7OQ"
+    },
+    {
+      "id":45,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/EgdulCOpI9q_g64iUQ58ElA33Aegv3rj-NqF0rFfmK9qJBRJZYz9wcW-2e_6O0tr6iC2_jbT5KhxNxlL2ToT1jcXwEXnB7ZimEg",
+      "view_skin":"https://lh3.googleusercontent.com/gYrRpGREVhbEBITBSmaYPi-yy4e2whuvvt8bGHaMA0wDNV77z1T8A0Yrd_IMr3apnhMshmN2vyyqxbbqyik1sO0z7iwM1mqIvQ"
+    },
+    {
+      "id":46,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/FUdOhuX6ZrlJ-YoLdC6Uh-Qn1zwrnp5heJ0lzxqSayMpJ-t8fVyDlb3L93Hrfdm8LaAyzcvkOt7MFJYq2mNJDyADnSuddz9PTQ",
+      "view_skin":"https://lh3.googleusercontent.com/AJ5s-mdvtghHXJ_8JUhREIMJxhoVBUQNd8Br4xAn3xV-itM7uvov8abToAPNVx9cQIA60MjtIgs3YiTa1q20uXJxooUaGcXpF8H0"
+    },
+    {
+      "id":47,
+      "name_skin":"Elephant with Duck sweather",
+      "skin_url":"https://lh3.googleusercontent.com/d2wQGpMWRHE60JxptVlazjl3ahOnfZhxbqt3fwuoNmRUEivPz32F_AFYz4tcVPqQxrSCeAn1A0jUyfNbPti4dgJrdXSM3J64xw",
+      "view_skin":"https://lh3.googleusercontent.com/cNNxbez8mV04sHfIGOWQoYXGu2D8dFMR02sc051UfmhzeQNoojyZbc0EnE61IWwt2iRCvzK3ZO8B7-V44QHx7UKUi2dGGsHGZA"
+    },
+    {
+      "id":48,
+      "name_skin":"techno duck",
+      "skin_url":"https://lh3.googleusercontent.com/AEK0nSGtMYscJBKyifR62weZc4dV45LG7K6391VjWx3eQI80iOjlWR9k2PhJubG0honhHCkciIAvyyPHd9X8J8mhNov5PiyMAi0",
+      "view_skin":"https://lh3.googleusercontent.com/GKoZPe3F5n1XwYWwNUPLNz118-4LT4fbKHanmpMjVHI2XhWoUOa-vsmxRmyFAv1gCa-pkW_YtlITp5U0r5feLcP0ynIU4qatj9nF"
+    },
+    {
+      "id":49,
+      "name_skin":"Darkness Duck",
+      "skin_url":"https://lh3.googleusercontent.com/qEqRsnvBb-m4FIhVxSQFlQD_PCWfltpFI5Zeuhme-D-JVS0RGnolgJmY1itxf7IpWEdFonM3Da8pyBzZZ91RFYxvKiohQ-HWOZMM",
+      "view_skin":"https://lh3.googleusercontent.com/3tu9jNvsH3VCghMHgHjo9YqelHox4g68Y2Fq2Jo2aHPqYETDs5jo9d6d-EuhGKJzkdOHVJIobV7L-USIy03p1xvIZG-1dZ5mcvc"
+    },
+    {
+      "id":50,
+      "name_skin":"duck",
+      "skin_url":"https://lh3.googleusercontent.com/X313rOYqxeWOOswUopfsNKFoHdGJ693XDD_JoHu7-3M1n4E_f77PvZ0vzDOTjGhb-la9aJ0FgG-wX0ui1_OVRf5KBq6WRFopZwOb",
+      "view_skin":"https://lh3.googleusercontent.com/zDyFfhccfKruJ9608Cmuv_nftri0TrtRfymhM_fPmnjFOBcVXTdGWdqGTCdzK3M3jhfq765J-h7uNYxgNpHt-0JfIKqOtOi-6A"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
+
